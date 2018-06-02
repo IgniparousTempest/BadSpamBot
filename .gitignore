@@ -1,0 +1,7 @@
+venv/
+
+secrets.cfg
+
+__pycache__/
+
+.idea/
